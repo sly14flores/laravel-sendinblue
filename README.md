@@ -1,13 +1,13 @@
 # laravel-sendinblue
 
-Laravel's mail transport for SendinBlue
+Laravel's mail transport for SendinBlue (Updated to support Laravel 8)
 
 [![Build Status](https://travis-ci.org/agence-webup/laravel-sendinblue.svg?branch=master)](https://travis-ci.org/agence-webup/laravel-sendinblue)
 
 ## Installation
 
 ```shell
-composer require webup/laravel-sendinblue
+composer require slyflores/laravel-sendinblue
 ```
 
 **Compatibility**
